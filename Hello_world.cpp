@@ -3,13 +3,13 @@
 using namespace std ;
 int main()
 {
-    int a ;
+    int lang ;
     
     cout << "\n1.C\n2.C++\n3.Python\n4.Java\n5.Ruby\n6.Clipper\n7.C#" ;
     cout << "\n8.Bash\n9.jQuery\n10.Swift\n";
     cout << "Enter Your Choice : " ;
     cin >> a ;
-    switch(a)
+    switch(lang)
     {
         case 1 :
                 cout << "#include<stdio.h>\nint main()\n{\n\tprintf(\"Hello world\");\n}";
