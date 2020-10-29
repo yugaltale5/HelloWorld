@@ -18,7 +18,7 @@ int main()
                 cout << "#include<stdio.h>\nint main()\n{\n\tcout << \"Hello World \";\n}";
                 break ;
         case 3 :
-                cout << "print \"Hello World\"";
+                cout << "print \"Hello World\n"";
                 break ;
         case 4 :
                 cout << "class A {\npublic static void main(String args[]){\n";
